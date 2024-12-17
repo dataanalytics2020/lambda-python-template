@@ -152,3 +152,4 @@ black src tests
 - 変更したい内容はIssueを作成してください
 - または、プロジェクトの管理者の柳本に直接連絡してください
 
+# lambda-python-template
